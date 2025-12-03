@@ -42,6 +42,7 @@ This is my first real project published on GitHub, and it’s still under active
 
 ### Distribution of Sharpe ratios
 You can also visualize the distribution of Sharpe ratios to evaluate the statistical significance of your strategy.
+<img width="600" height="400" alt="monte carlo" src="https://github.com/user-attachments/assets/e209d835-fddf-4540-9bb3-67f9de0d1d19" />
 
 ---
 
@@ -51,6 +52,7 @@ To start the **program**, just type:
 
 ```bash
 dotnet run
+```
 
 
 ### License
