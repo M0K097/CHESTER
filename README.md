@@ -26,11 +26,11 @@ This is my first real project published on GitHub, and it’s still under active
 
 ## here you can see him in action, these are screenshots from my monitor...
 
-for every backtest you get a visualization of price action with buy and sell positions
+for every backtest you get a visualization of price action with buy and sell positions:
 <img width="600" height="400" alt="graph" src="https://github.com/user-attachments/assets/aa2b4866-c114-4cbc-88b5-3b255d57c310" />
 
-also a detailed risk metrics is build
 
+also a detailed risk metrics is build:
 <img width="600" height="400" alt="full metrics" src="https://github.com/user-attachments/assets/d7014250-3e6d-434f-82b6-11e5cf4f7e70" />
 
 these are simulator calculations
