@@ -39,7 +39,7 @@ these are simulator calculations: <br>
 and you can monitor your running instances: <br>
 <img width="600" height="400" alt="more" src="https://github.com/user-attachments/assets/7b212442-2b36-455f-b407-1732fc7566dd" />
 
-<img width="600" height="400" alt="ChatGPT Image Oct 1, 2025, 07_49_32 PM" src="https://github.com/user-attachments/assets/13504cee-52e1-4d26-8afc-804bff7cf7a9" />
+<img width="450" height="450" alt="ChatGPT Image Oct 1, 2025, 07_49_32 PM" src="https://github.com/user-attachments/assets/13504cee-52e1-4d26-8afc-804bff7cf7a9" />
 
 ### License
 This project is licensed under the Non-Commercial License found in the LICENSE file.
