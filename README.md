@@ -18,14 +18,14 @@ Chester is a framework for developing, evaluating and running algorythmic tradin
 
 
 
-### Welcome! 
+## Welcome! 
 This is my first real project published on GitHub, and it’s still under active development.
 
 - No AI or copy-pasted code was used; this project is built from scratch for **educational purposes**.
 - The goal is to learn, experiment, and create a personal trading framework.
 - Feedback, suggestions, and help are **always welcome**—feel free to open issues or submit pull requests.
 
-## here you can see him in action, these are screenshots from my monitor...
+### here you can see him in action, these are screenshots from my monitor...
 
 for every backtest you get a visualization of price action with buy and sell positions: <br>
 <img width="600" height="400" alt="graph" src="https://github.com/user-attachments/assets/aa2b4866-c114-4cbc-88b5-3b255d57c310" />
