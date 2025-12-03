@@ -41,6 +41,8 @@ these are simulator calculations: <br>
 and you can monitor your running instances: <br>
 <img width="600" height="400" alt="more" src="https://github.com/user-attachments/assets/7b212442-2b36-455f-b407-1732fc7566dd" />
 
+----> to start the programm just type ’dotnet run’ inside the root folder
+
 ### License
 This project is licensed under the Non-Commercial License found in the LICENSE file.
 
