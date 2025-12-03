@@ -30,12 +30,15 @@ for every backtest you get a visualization of price action with buy and sell pos
 <img width="600" height="400" alt="graph" src="https://github.com/user-attachments/assets/aa2b4866-c114-4cbc-88b5-3b255d57c310" />
 
 also a detailed risk metrics is build
+
 <img width="600" height="400" alt="full metrics" src="https://github.com/user-attachments/assets/d7014250-3e6d-434f-82b6-11e5cf4f7e70" />
 
 these are simulator calculations
+
 <img width="600" height="400" alt="simulator" src="https://github.com/user-attachments/assets/84fb698e-e9ea-4527-ad09-760acd41f4cb" />
 
 and you can monitor your running instances
+
 <img width="600" height="400" alt="more" src="https://github.com/user-attachments/assets/7b212442-2b36-455f-b407-1732fc7566dd" />
 
 
