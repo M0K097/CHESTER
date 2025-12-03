@@ -26,24 +26,20 @@ This is my first real project published on GitHub, and it’s still under active
 
 ## here you can see him in action, these are screenshots from my monitor...
 
-for every backtest you get a visualization of price action with buy and sell positions:
+for every backtest you get a visualization of price action with buy and sell positions: <br>
 <img width="600" height="400" alt="graph" src="https://github.com/user-attachments/assets/aa2b4866-c114-4cbc-88b5-3b255d57c310" />
 
 
-also a detailed risk metrics is build:
+also a detailed risk metrics is build: <br>
 <img width="600" height="400" alt="full metrics" src="https://github.com/user-attachments/assets/d7014250-3e6d-434f-82b6-11e5cf4f7e70" />
 
-these are simulator calculations
-
+these are simulator calculations: <br>
 <img width="600" height="400" alt="simulator" src="https://github.com/user-attachments/assets/84fb698e-e9ea-4527-ad09-760acd41f4cb" />
 
-and you can monitor your running instances
-
+and you can monitor your running instances: <br>
 <img width="600" height="400" alt="more" src="https://github.com/user-attachments/assets/7b212442-2b36-455f-b407-1732fc7566dd" />
 
-
 <img width="600" height="400" alt="ChatGPT Image Oct 1, 2025, 07_49_32 PM" src="https://github.com/user-attachments/assets/13504cee-52e1-4d26-8afc-804bff7cf7a9" />
-
 
 ### License
 This project is licensed under the Non-Commercial License found in the LICENSE file.
