@@ -1,8 +1,7 @@
-<img width="450" height="450" alt="ChatGPT Image Oct 1, 2025, 07_49_32 PM" src="https://github.com/user-attachments/assets/13504cee-52e1-4d26-8afc-804bff7cf7a9" />
-
 # About This Project
-
 Chester is a framework for developing, evaluating and running algorythmic trading strategies.
+
+<img width="450" height="450" alt="ChatGPT Image Oct 1, 2025, 07_49_32 PM" src="https://github.com/user-attachments/assets/13504cee-52e1-4d26-8afc-804bff7cf7a9" />
 
 ## Features:
 
@@ -24,6 +23,8 @@ This is my first real project published on GitHub, and it’s still under active
 - No AI or copy-pasted code was used; this project is built from scratch for **educational purposes**.
 - The goal is to learn, experiment, and create a personal trading framework.
 - Feedback, suggestions, and help are **always welcome**—feel free to open issues or submit pull requests.
+
+
 
 ### here you can see him in action, these are screenshots from my monitor...
 
