@@ -52,7 +52,22 @@ To start the **program**, just type:
 ```bash
 dotnet run
 ```
+# Controls
 
+- Move **selection**: `<kbd>↑</kbd>` / `<kbd>↓</kbd>`
+- Cycle through logs: `<kbd>←</kbd>` / `<kbd>→</kbd>`
+- Confirm selection: `<kbd>Enter</kbd>`
+- Go back: `<kbd>Return</kbd>`
+
+### Logging
+
+Anywhere in your code, you can use the `Logger` class to create dynamic log channels:
+
+```cpp
+using Logger;
+
+log("your_log", "your_channel_name");
+```
 
 ### License
 This project is licensed under the Non-Commercial License found in the LICENSE file.
