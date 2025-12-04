@@ -90,9 +90,9 @@ Before running a backtest, you must **download market data**:
 # Backtest Flow
 
 - To run a backtest, you must select:  
-  1. A **dataset** (downloaded market data)  
-  2. A **strategy**  
-  3. A **timeframe** in **minutes** (1 = 1m, 60 = 1h)
+   -A **dataset** (downloaded market data)  
+   -A **strategy**  
+   -A **timeframe** in **minutes** (1 = 1m, 60 = 1h)
 - After a backtest finishes and the **risk metrics** are displayed, press <kbd>Enter</kbd>.
 - Before returning to the menu, you will be asked whether you want to run a **Monte Carlo simulation**:
   - Press **anything or nothing**, then <kbd>Enter</kbd> to **skip**.
