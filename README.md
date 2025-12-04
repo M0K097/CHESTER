@@ -52,22 +52,49 @@ To start the **program**, just type:
 ```bash
 dotnet run
 ```
+
 # Controls
 
-- Move **selection**: `<kbd>↑</kbd>` / `<kbd>↓</kbd>`
-- Cycle through logs: `<kbd>←</kbd>` / `<kbd>→</kbd>`
-- Confirm selection: `<kbd>Enter</kbd>`
-- Go back: `<kbd>Return</kbd>`
+- Move **selection**: <kbd>↑</kbd> / <kbd>↓</kbd>
+- Cycle through logs: <kbd>←</kbd> / <kbd>→</kbd>
+- Confirm selection: <kbd>Enter</kbd>
+- Go back: <kbd>Return</kbd>
 
 ### Logging
 
 Anywhere in your code, you can use the `Logger` class to create dynamic log channels:
 
-```cpp
-using Logger;
+`using Logger;`
 
-log("your_log", "your_channel_name");
-```
+`log("your_log", "your_channel_name");`
+
+- Dynamically creates a new log channel named `"your_channel_name"`.  
+- You can create **as many channels as you like**.  
+- If no channel is provided, logs go to the **default CLI channel**.
+
+# Downloading Data
+
+Before running a backtest, you must **download market data**:
+
+1. Select **Download Data** and press <kbd>Enter</kbd>.
+2. When asked to **filter symbols**:
+   - Press <kbd>Enter</kbd> to skip filtering, **or**
+   - Enter a **quote asset** (e.g., `XVG`, `BTC`) to filter pairs.
+3. After choosing a pair, enter your date range:
+   - **From:** e.g., `2024.1.1`
+   - **To:** e.g., `2025.1.1` (any datetime format is accepted)
+
+Once the date range is confirmed, the data download will begin.
+
+# Backtest Flow
+
+- After a backtest finishes and the **risk metrics** are displayed, press <kbd>Enter</kbd>.
+- Before returning to the menu, you will be asked whether you want to run a **Monte Carlo simulation**:
+  - Press **anything or nothing**, then <kbd>Enter</kbd> to **skip**.
+  - Type **`y`** and press <kbd>Enter</kbd> to **run the Monte Carlo simulation**.
+- After the Monte Carlo prompt, you return to the main menu.
+- Press <kbd>Enter</kbd> again to **inspect the selected trades**.
+- While viewing a trade, press <kbd>Enter</kbd> to **close the trade info** and return.
 
 ### License
 This project is licensed under the Non-Commercial License found in the LICENSE file.
