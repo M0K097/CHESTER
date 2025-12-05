@@ -94,12 +94,12 @@ Before running a backtest, you must **download market data**:
    -A **strategy**  
    -A **timeframe** in **minutes** (1 = 1m, 60 = 1h)
 - After a backtest finishes and the **risk metrics** are displayed, press <kbd>Enter</kbd>.
+- Press <kbd>Enter</kbd> again to **inspect the selected trade from the list**.
+- While viewing a trade, press <kbd>Enter</kbd> to **close the trade info** and return.
 - Before returning to the menu, you will be asked whether you want to run a **Monte Carlo simulation**:
   - Press **anything or nothing**, then <kbd>Enter</kbd> to **skip**.
   - Type **`y`** and press <kbd>Enter</kbd> to **run the Monte Carlo simulation**.
-- After the Monte Carlo prompt, you return to the main menu.
-- Press <kbd>Enter</kbd> again to **inspect the selected trade from the list**.
-- While viewing a trade, press <kbd>Enter</kbd> to **close the trade info** and return.
+
 
 # Starting Live Instances
 
